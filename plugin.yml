@@ -1,0 +1,5 @@
+name: CmdBlocker
+main: com.razorordeath.cmdblocker.CmdBlocker
+version: 1.0.0
+author: razorordeath
+description: A quick and efficent CommandBlocker for your server.

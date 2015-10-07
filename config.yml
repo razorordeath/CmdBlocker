@@ -1,0 +1,7 @@
+# CmdBlocker created by razorordeath.
+
+no_permission: '&cYou are not permitted to use this command.'
+allow_permission: 'commandblock.run'
+blocked_commands:
+- '/?'
+- '/bukkit:'
